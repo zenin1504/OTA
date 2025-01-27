@@ -1,0 +1,17 @@
+{
+        "response": [
+                {
+                        "maintainer": "zenin1504",
+                        "oem": "Poco",
+                        "device": "Poco X6 Pro",
+                        "filename": "RisingOS-6.2-STABLE-25012713-CORE-COMMUNITY-duchamp-ota.zip",
+                        "download": "",
+                        "timestamp": 1737982690,
+                        "md5": "abfbef2e08967d72ef4349c32beb0389",
+                        "sha256": "297b565c04f0b5ec00ae55fedad5717b2b18b9404772538d85737be981a70d7c",
+                        "size": 3212325134,
+                        "version": "6.2-Boundless",
+                        "buildtype": "CORE",
+                }
+        ]
+}
