@@ -11,7 +11,7 @@
                         "sha256": "297b565c04f0b5ec00ae55fedad5717b2b18b9404772538d85737be981a70d7c",
                         "size": 3212325134,
                         "version": "6.2-Boundless",
-                        "buildtype": "CORE",
+                        "buildtype": "CORE"
                 }
         ]
 }
