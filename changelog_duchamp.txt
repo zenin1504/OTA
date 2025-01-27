@@ -1,0 +1,18 @@
+RisingOS 6.2-Boundless
+Build Date : 27/01/2025
+- Initial A15 Build
+- Added stock MiuiCamera
+- Added SmartPixels support 
+- Added Per-App Refresh Rate Option 
+- Added Thermal Profiles, Clear Speaker 
+- Added Charge control Support 
+- Set ScreenRecording framerate to 90fps
+- Enabled Battery cycle count
+- Switch to power-libperfmgr
+- Added Engineering Mode
+- Added ThermalProfile Qs Tile
+- Set 1 seconds interaction boost
+- Disable MTE system_server
+- Added RIL battery saver props
+- Update blobs to HyperOS 2 Global
+- Added cts (Circle to search)
