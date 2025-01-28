@@ -1,4 +1,8 @@
 RisingOS 6.2-Boundless
+Build Date: 28/01/2025
+- Hotfix build for having a problems on calling and sms and all vo dead
+
+RisingOS 6.2-Boundless
 Build Date : 27/01/2025
 - Initial A15 Build
 - Added stock MiuiCamera
