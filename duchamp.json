@@ -1,1 +1,17 @@
-# Placeholder
+{
+    "maintainer": [
+        {
+            "display_name": "zenin",
+            "telegram": "zenin1504",
+            "github": "zenin1504"
+        }
+    ],
+    "model": "Poco X6 Pro 5G",
+    "codename": "duchamp",
+    "active": true,
+    "version": "fifteen",
+    "release": "monthly",
+    "last_updated": "",
+    "download_link": "",
+    "xda": null
+}
